@@ -1,0 +1,6 @@
+{
+  "hosted-zone:account=812405868486:domainName=serverless-app-demo.org:region=us-east-1": {
+    "Id": "/hostedzone/Z01925563MH26Q6AQ0JJ3",
+    "Name": "serverless-app-demo.org."
+  }
+}
